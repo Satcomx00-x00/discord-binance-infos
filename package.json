@@ -1,0 +1,27 @@
+{
+  "name": "discord-binance-infos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satcomx00-x00/discord-binance-infos.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Satcomx00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satcomx00-x00/discord-binance-infos/issues"
+  },
+  "homepage": "https://github.com/Satcomx00-x00/discord-binance-infos#readme",
+  "dependencies": {
+    "binance-api-node": "^0.0.0",
+    "discord.js": "^12.5.1",
+    "node-binance-api": "^0.12.4"
+  }
+}
