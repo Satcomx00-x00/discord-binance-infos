@@ -1,0 +1,11 @@
+{
+    "DISCORD":
+                {
+                    "BOT_TOKEN": ""
+                },
+    "BINANCE": 
+                {
+                    "BINANCE_KEY": "",
+                    "BINANCE_SECRET": ""
+                }
+}
